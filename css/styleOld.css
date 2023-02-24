@@ -2,56 +2,56 @@
  box-sizing: border-box;
 }
 
-body {
+/*body {
     background-color:#fff;
     color: #212121;
     font-family: Roboto;
-}
+}*/
 
-h1
+/*h1
 h2
 h3
 h4
-h5
+h5*/
 
 
 
 
-ul{
+/*ul{
     margin: 0;
     padding: 0;
     list-style: none;
-}
+}*/
 
 li{
     list-style: none;
 }
-a{
+/*a{
     text-decoration: none;
     color: rgba(33, 33, 33, 1);
-}
+}*/
 
-p{
+/*p{
     margin: 0px;
-}
+}*/
 
-img{
+/*img{
     display: block;
     max-width: 100%;
     height: auto;
-}
+}*/
 
-.container{
+/*.container{
     display: flex;
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
     padding-right: 15px;
     width: 100%;
-}
+}*/
 
 .section-header{
-    border: 1px solid greenyellow;
+    
     display: flex;
     align-items: center;
     justify-content: center;
