@@ -118,6 +118,7 @@ button {
     text-align: center;
     padding-bottom: 25px;
     padding-top: 25px;
+    list-style: none;
 }
 
 .detalis{
@@ -313,7 +314,7 @@ margin-bottom: 30px;
             line-height: 1.7;
           }
           
-          .footer-container {}
+          
           
           .footer-logo {
             font-family: 'Raleway';
@@ -327,7 +328,8 @@ margin-bottom: 30px;
             color: #fff;
             text-align: center;
           }
-          
+
+        
           .footer-logo-span {
             color: #2196f3;
           }
